@@ -8,5 +8,6 @@ namespace kusumapro.demo
 {
     internal class Class
     {
+        public string Name { get; set; }
     }
 }
